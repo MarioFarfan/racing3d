@@ -1,0 +1,8 @@
+﻿  Texturas.cpp
+c:\users\mfarf\onedrive\documentos\ito\10 semestre\graficación\unidad 3\texturas\texturas.cpp(633): warning C4102: 'prueba': etiqueta sin referencia
+c:\users\mfarf\onedrive\documentos\ito\10 semestre\graficación\unidad 3\texturas\texturas.cpp(635): warning C4102: 'sb': etiqueta sin referencia
+c:\users\mfarf\onedrive\documentos\ito\10 semestre\graficación\unidad 3\texturas\texturas.cpp(714): warning C4102: 'sa3': etiqueta sin referencia
+c:\users\mfarf\onedrive\documentos\ito\10 semestre\graficación\unidad 3\texturas\texturas.cpp(729): warning C4102: 'fuera': etiqueta sin referencia
+c:\users\mfarf\onedrive\documentos\ito\10 semestre\graficación\unidad 3\texturas\texturas.cpp(756): warning C4102: 'sig': etiqueta sin referencia
+  Texturas.vcxproj -> C:\Users\mfarf\OneDrive\Documentos\ITO\10 Semestre\Graficación\Unidad 3\Texturas\Debug\Texturas.exe
+  Texturas.vcxproj -> C:\Users\mfarf\OneDrive\Documentos\ITO\10 Semestre\Graficación\Unidad 3\Texturas\Debug\Texturas.pdb (Full PDB)
